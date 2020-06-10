@@ -1,4 +1,6 @@
-# Hack Club Sahyadri Guidelines
+# Hack Club Sahyadri
+## Click here for more [logo and Banner](https://hackclub.com/brand/)
+#  Guidelines
 
 - Never use the Hack Club Sahyadri's logos for any event which aren't directly asociated to SOSC, or without due permission.
 - Do not modify or edit any of the Hack Club Sahyadri's logo at any level.
